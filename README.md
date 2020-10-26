@@ -1,2 +1,2 @@
 Contains bucket creation script -->json array as input
-Contains bucket delettion script --->uses regex to find bucket names
+Contains bucket deletion script --->uses regex to find bucket names
